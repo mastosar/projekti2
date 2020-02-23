@@ -1,4 +1,5 @@
 tämä on lapion toinen osa
 lisätään lapioon lisää tekstiä
 kolmas lisäys gitHubissa
-terveisiä mun koneelta
+terveisiä mun koneelta ja  GitHubista
+
